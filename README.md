@@ -1,5 +1,5 @@
 
-<strong>Welcome to our recipe page, please click on this link https://las348.github.io/Glova/.</strong>
+<strong>Welcome to our recipe page.</strong>
 <br><br>
 <strong>Upon opening the page, a search box and popular categories will populate</strong>
 <br><br>
